@@ -1,4 +1,4 @@
-# SharePoint FileSync 4 Developers
+# Azure Blob Storage Backup
 With this PowerShell script you are able to backup a blob storage to another one. File versions are handled with snapshots in the destination blob.
 
 ## Installation
